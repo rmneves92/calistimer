@@ -1,0 +1,18 @@
+Permissão no /dev/kvm:
+    sudo chown -R rafael:rafael /dev/kvm
+
+Linkar os assets no projeto:
+    react-native link
+
+Navegacao no react native:
+    yarn add react-navigation
+    yarn add react-natvive-gesture-handler
+    
+Não esquecer de linkar no projeto: react-native link react-native-gesture-handler
+
+Rodar no emulador do android:
+    react-native run-android
+
+Reproduzir sons no react native:
+    yarn add react-native-sound
+    react-native link react-native-sound
